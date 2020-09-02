@@ -33,6 +33,7 @@ print(schooling)
 
 // Does the above code compile? Why is this different than trying to update a constant? Print your explanation to the console using the print function.
 
+print("The code above complies because variables are able to change in value whereas constants cannot.")
 
 // Create a variable called steps that will keep track of the number of steps you take throughout the day. Set its initial value to 0 to represent the step count first thing in the morning. Print steps to the console.
 
