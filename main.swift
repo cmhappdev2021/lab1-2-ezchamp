@@ -28,6 +28,8 @@ print(schooling)
 
 // Now imagine you just completed an additional year of school, and update the schooling variable accordingly. Print schooling to the console.
 
+schooling = 13
+print(schooling)
 
 // Does the above code compile? Why is this different than trying to update a constant? Print your explanation to the console using the print function.
 
