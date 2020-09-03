@@ -58,10 +58,15 @@ For each of the metrics above, declare either a constant or a variable and assig
 */
 
 var numberLikes = 50
+print("I made this a variable because the # of likes can change")
 var numberComments = 15
+print("I made this a variable because the # of comments can change")
 let yearCreated = 2020
+print("I made this a constant because the year created of a post shouldn't change")
 let monthCreated = 10
+print("I made this a constant because the month ceated of a post shouldn't change")
 let dayCreated = 7
+print("I made this a constant because the date created of a post shouldn't change")
 
 
 /* There are all sorts of things that a fitness tracking app needs to keep track of in order to display the right information to the user. Similar to the last exercise, declare either a constant or a variable for each of the following items, and assign each a sensible value. Be sure to use proper naming conventions.
@@ -74,10 +79,15 @@ Average heart rate: The user's average heart rate over the last 24 hours
 */
 
 let userName = "ObamaIsCool"
+print("I made this a constant because the username shouldn't change unless the application allows for that.")
 var Age = "17"
+print("I made this a variable because someone's age is supposed to change")
 var numberStepsTaken = 1500
+print("I made this a variable because the number of steps taken should change with each step")
 let goalStepNumber = 2500
+print("I made this a constant because the goal number of steps shouldn't change after declared")
 var averageHeartRate = 78
+print("I made this a variable because a human's heart rate fluctuates")
 
 // Now go back and add a line after each constant or variable declaration. On those lines, print a statement explaining why you chose to declare the piece of information as a constant or variable.
 
