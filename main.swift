@@ -107,6 +107,9 @@ print("The code does not compile because once a type is set, it cannot be change
 
 // Declare a variable and give it a string value. Then try to assign it to firstDecimal. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
 
+var Obama = "Cool Dude"
+//Obama = firstDecimal
+print("The code does not compile because once a type is set, it cannot be changed.")
 
 // Finally, declare a variable with a whole number value. Then try to assign it to firstDecimal. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
 
