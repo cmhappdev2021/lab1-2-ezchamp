@@ -113,6 +113,9 @@ print("The code does not compile because once a type is set, it cannot be change
 
 // Finally, declare a variable with a whole number value. Then try to assign it to firstDecimal. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
 
+var wholeNumber = 8
+//wholeNumber = firstDecimal
+print("The code does not compile because a Double type cannot be changed to an Int type.")
 
 // You have declared a number of constants and variables to keep track of fitness information. Declare one more variable with a boolean value called hasMetStepGoal.
 
