@@ -82,9 +82,9 @@ let userName = "ObamaIsCool"
 print("I made this a constant because the username shouldn't change unless the application allows for that.")
 var Age = "17"
 print("I made this a variable because someone's age is supposed to change")
-var numberStepsTaken = 1500
+var numberStepsTaken = 15000
 print("I made this a variable because the number of steps taken should change with each step")
-let goalStepNumber = 2500
+let goalStepNumber = 25000
 print("I made this a constant because the goal number of steps shouldn't change after declared")
 var averageHeartRate = 78
 print("I made this a variable because a human's heart rate fluctuates")
@@ -119,9 +119,12 @@ print("The code does not compile because a Double type cannot be changed to an I
 
 // You have declared a number of constants and variables to keep track of fitness information. Declare one more variable with a boolean value called hasMetStepGoal.
 
+var hasMetStepGoal = true
 
 // When you declared a constant for goal number of steps and a variable for current step count, you likely assigned each a value in the thousands. This can be difficult to read. Redeclare this constant and variable and, when assigning each a value in the thousands, format the number so that it is more readable.
 
+numberStepsTaken = 15-000
+let fixedGoalStepNumber = 25-000
 
 // Declare a variable called name of type String, but do not give it a value. Print name to the console. Does the code compile? Remove any code that will not compile.
 
