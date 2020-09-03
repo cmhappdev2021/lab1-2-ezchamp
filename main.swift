@@ -57,6 +57,12 @@ Day created: The day of the month the post was created
 For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
 */
 
+var numberLikes = 50
+var numberComments = 15
+let yearCreated = 2020
+let monthCreated = 10
+let dayCreated = 7
+
 
 /* There are all sorts of things that a fitness tracking app needs to keep track of in order to display the right information to the user. Similar to the last exercise, declare either a constant or a variable for each of the following items, and assign each a sensible value. Be sure to use proper naming conventions.
 
