@@ -128,6 +128,8 @@ let fixedGoalStepNumber = 25-000
 
 // Declare a variable called name of type String, but do not give it a value. Print name to the console. Does the code compile? Remove any code that will not compile.
 
+var nameOfType:String
+//print(nameOfType)
 
 // Now assign a value to name, and print it to the console.
 
